@@ -38,6 +38,7 @@ class Book:
 
 
 class Contract:
+    class Contract:
 
     all = []
 
